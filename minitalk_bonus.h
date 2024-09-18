@@ -6,7 +6,7 @@
 /*   By: iizquier <iizquier@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 13:19:27 by iizquier          #+#    #+#             */
-/*   Updated: 2024/09/18 18:58:26 by iizquier         ###   ########.fr       */
+/*   Updated: 2024/09/18 19:52:43 by iizquier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,10 +17,6 @@
 # include <stdlib.h>
 # include <signal.h>
 # include <sys/types.h>
-
-# ifndef _POSIX_C_SOURCE
-#  define _POSIX_C_SOURCE 200000L
-# endif
 
 # include "./Libft/libft.h"
 # include "./PrintF/ft_printf.h"
