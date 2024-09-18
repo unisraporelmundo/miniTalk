@@ -6,7 +6,7 @@
 /*   By: iizquier <iizquier@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 13:18:55 by iizquier          #+#    #+#             */
-/*   Updated: 2024/09/18 18:16:33 by iizquier         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:59:38 by iizquier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,8 +40,8 @@ static void	ft_check_pid(int pid)
 int	main(int argc, char **argv)
 {
 	int	pid;
-	int	i;	
-	
+	int	i;
+
 	if (argc <= 2)
 	{
 		ft_printf (MSG_ARG_1 "\n");

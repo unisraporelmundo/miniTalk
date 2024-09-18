@@ -6,17 +6,17 @@
 /*   By: iizquier <iizquier@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 13:19:27 by iizquier          #+#    #+#             */
-/*   Updated: 2024/09/18 16:40:45 by iizquier         ###   ########.fr       */
+/*   Updated: 2024/09/18 18:58:26 by iizquier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef MINITALK_H
-# define MINITALK_H
+#ifndef MINITALK_BONUS_H
+# define MINITALK_BONUS_H
 
-#include <unistd.h>
-#include <stdlib.h>
-#include <signal.h>
-#include <sys/types.h>
+# include <unistd.h>
+# include <stdlib.h>
+# include <signal.h>
+# include <sys/types.h>
 
 # ifndef _POSIX_C_SOURCE
 #  define _POSIX_C_SOURCE 200000L

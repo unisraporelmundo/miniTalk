@@ -6,7 +6,7 @@
 /*   By: iizquier <iizquier@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/14 13:18:42 by iizquier          #+#    #+#             */
-/*   Updated: 2024/09/18 18:24:52 by iizquier         ###   ########.fr       */
+/*   Updated: 2024/09/18 19:00:15 by iizquier         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,7 +41,7 @@ int	main(int argc, char **argv)
 {
 	int	pid;
 	int	i;	
-	
+
 	if (argc <= 2)
 	{
 		ft_printf (MSG_ARG_1 "\n");
